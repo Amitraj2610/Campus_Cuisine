@@ -6,7 +6,7 @@ A modern campus food ordering web application that allows students to browse res
 
 ## 🚀 Live Demo
 
-> Coming soon — deploy on GitHub Pages or Firebase Hosting.
+> Coming soon — [deploy on GitHub Pages or Firebase Hosting](https://amitraj2610.github.io/Campus_Cuisine/).
 
 ---
 
