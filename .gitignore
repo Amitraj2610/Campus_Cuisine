@@ -1,0 +1,18 @@
+﻿# Node dependencies (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE settings
+.vscode/
+*.code-workspace
+
+# Large binary / non-essential files for the web project
+*.pptx
+*.docx
+*.txt
+
+# Keep the images and core web files
